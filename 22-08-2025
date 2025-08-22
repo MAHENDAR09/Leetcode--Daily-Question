@@ -1,0 +1,82 @@
+class Solution {
+    public int minimumArea(int[][] grid) {
+
+        int h = grid.length;
+        int w = grid[0].length;
+
+        int m = grid[0].length;
+        int n = h;
+
+        int idx = 0;
+        boolean flag = true;
+        
+        while (flag && idx < n){ 
+            for (int i=0;i<m;i++){
+                if (grid[idx][i] == 1){
+                    flag = false;
+                    break;
+                }
+            }
+            if (flag){
+                h--;
+                idx++;
+            }
+        }
+
+        idx = 0;
+        flag = true;
+        while (idx <n && flag ){
+
+            for (int i=0;i<n;i++){
+                if (grid[i][idx] == 1){
+                    flag = false;
+                    break;
+                }
+            }
+            if (flag){
+                w--;
+                idx++;
+            }
+        }
+
+        idx = m-1;
+        flag = true;
+
+        while (flag && idx >= 0){
+
+            
+            for (int i=n-1;i>=0;i--){
+                if (grid[i][idx] == 1){
+                    flag = false;
+                    break;
+                }
+            }
+            
+            if (flag){
+                --w;
+                idx--;
+            }
+            
+        }
+
+        idx = n-1;
+        flag = true;
+
+        while (flag && idx >= 0){
+
+            for (int i=m-1;i>=0;i--){
+                if (grid[idx][i] == 1){
+                    flag = false;
+                    break;
+                }
+
+            }
+            if (flag){
+                --h;
+                idx--;
+            }
+        }
+
+        return h*w;
+    }
+}
