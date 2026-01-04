@@ -1,15 +1,21 @@
 class Solution {
     public int sumFourDivisors(int[] nums) {
+        Map<Integer,Integer> mp = new HashMap();
         int divSum = 0;
-        for (int e : nums)
-            divSum += findDivSum(e);
+        mp.put(1,0);
+
+        for (int e : nums){
+
+            if (! (mp.containsKey(e))){
+                mp.put(e,findDivSum(e));
+            }
+            
+            divSum += mp.get(e);
+        }
         
         return divSum;
     }
     public static int findDivSum(int e){
-
-        if (e == 1)
-            return 0;
 
         int divisors = 0;
         int sum = 0;
