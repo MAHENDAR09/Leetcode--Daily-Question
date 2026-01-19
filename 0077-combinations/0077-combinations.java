@@ -18,9 +18,7 @@ class Solution {
             return ;
         }
 
-        if(idx == (n+1)){
-            return;
-        }
+        
 
         for (int i=idx;i<=n;i++){
 
