@@ -41,6 +41,7 @@ Includes:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0494-target-sum) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Greedy
@@ -81,6 +82,7 @@ Includes:
 | [0078-subsets](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0093-restore-ip-addresses) |
+| [0131-palindrome-partitioning](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
@@ -95,4 +97,5 @@ Includes:
 |  |
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0093-restore-ip-addresses) |
+| [0131-palindrome-partitioning](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
