@@ -20,6 +20,7 @@ Includes:
 | ------- |
 | [0039-combination-sum](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0090-subsets-ii) |
@@ -73,6 +74,7 @@ Includes:
 | ------- |
 | [0039-combination-sum](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0090-subsets-ii) |
