@@ -24,6 +24,7 @@ Includes:
 | [0047-permutations-ii](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0494-target-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -51,6 +52,7 @@ Includes:
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0079-word-search) |
 | [1975-maximum-matrix-sum](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1975-maximum-matrix-sum) |
 ## Tree
 |  |
@@ -60,6 +62,7 @@ Includes:
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0079-word-search) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Breadth-First Search
@@ -80,6 +83,7 @@ Includes:
 | [0047-permutations-ii](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0131-palindrome-partitioning) |
@@ -96,6 +100,7 @@ Includes:
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
