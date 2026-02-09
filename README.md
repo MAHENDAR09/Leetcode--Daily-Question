@@ -51,6 +51,7 @@ Includes:
 ## Greedy
 |  |
 | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1382-balance-a-binary-search-tree) |
 | [1975-maximum-matrix-sum](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1975-maximum-matrix-sum) |
 ## Matrix
 |  |
@@ -63,6 +64,7 @@ Includes:
 | [0110-balanced-binary-tree](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0110-balanced-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -70,6 +72,7 @@ Includes:
 | [0110-balanced-binary-tree](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0110-balanced-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -80,6 +83,7 @@ Includes:
 | [0110-balanced-binary-tree](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0110-balanced-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1382-balance-a-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -122,4 +126,12 @@ Includes:
 |  |
 | ------- |
 | [3634-minimum-removals-to-balance-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3634-minimum-removals-to-balance-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
