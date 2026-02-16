@@ -18,6 +18,7 @@ Includes:
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0046-permutations) |
@@ -115,6 +116,7 @@ Includes:
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0131-palindrome-partitioning) |
@@ -145,4 +147,8 @@ Includes:
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3719-longest-balanced-subarray-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
