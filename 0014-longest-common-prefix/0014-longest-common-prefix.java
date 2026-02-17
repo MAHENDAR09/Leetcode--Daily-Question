@@ -1,15 +1,17 @@
+ import java.util.stream.*;
+ 
  class Solution {
-    public String longestCommonPrefix(String[] strs) {
-        String ans = "";
-        String str = strs[0];
-        for (int j=0;j<str.length();j++) {
-            for (int i=1;i<strs.length;i++) {
-                String s = strs[i];
-                if (s.length() > j && s.charAt(j) == str.charAt(j));
-                else return ans;
-            }
-            ans = ans + str.charAt(j)+"";
-        }
+    public String longestCommonPrefix(String[] s) {
+
+        Arrays.sort(s);
+        int n = Math.min(s[0].length(),s[s.length-1].length());
+
+        String ans = IntStream.range(0,n)
+            .takeWhile(idx -> s[0].charAt(idx) == s[s.length-1].charAt(idx) )
+            .mapToObj(idx ->s[0].charAt(idx))
+            .map(String::valueOf)
+            .peek(e -> System.out.println(e))
+            .collect(Collectors.joining());
         return ans;
     }
 }
