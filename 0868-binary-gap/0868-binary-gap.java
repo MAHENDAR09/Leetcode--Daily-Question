@@ -1,19 +1,19 @@
+import java.util.stream.*;
 class Solution {
     public int binaryGap(int n) {
 
-        int onesPos = 0;
-        int maxLen = 0;
-        while ( n != 0){
-            int rem = n % 2;
-            if (rem == 1){
-                maxLen = Math.max(maxLen,onesPos);
-                onesPos = 1;
-            }
-            else if (onesPos != 0)
-                onesPos++;
-            n = n / 2;
-            
-        }
-        return maxLen;
+        String binary = Integer.toBinaryString(n);
+
+        List<Integer> onesIndices = IntStream.range(0,binary.length())
+        .filter(e -> binary.charAt(e)=='1')
+        .boxed()
+        .toList();
+
+        int max = IntStream.range(1,onesIndices.size())
+        .map(idx -> onesIndices.get(idx) - onesIndices.get(idx-1))
+        .max()
+        .orElse(0);
+        
+        return max;
     }
 }
