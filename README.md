@@ -21,6 +21,7 @@ Includes:
 | [0014-longest-common-prefix](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0051-n-queens) |
@@ -51,6 +52,7 @@ Includes:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0045-jump-game-ii) |
 | [0131-palindrome-partitioning](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0494-target-sum) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -58,6 +60,7 @@ Includes:
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0045-jump-game-ii) |
 | [0455-assign-cookies](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0860-lemonade-change) |
 | [1382-balance-a-binary-search-tree](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1382-balance-a-binary-search-tree) |
