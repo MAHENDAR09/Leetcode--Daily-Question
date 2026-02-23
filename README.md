@@ -31,6 +31,7 @@ Includes:
 | [0238-product-of-array-except-self](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0238-product-of-array-except-self) |
 | [0455-assign-cookies](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0494-target-sum) |
+| [0860-lemonade-change](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0860-lemonade-change) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1390-four-divisors) |
 | [1975-maximum-matrix-sum](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1975-maximum-matrix-sum) |
@@ -58,6 +59,7 @@ Includes:
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0860-lemonade-change) |
 | [1382-balance-a-binary-search-tree](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1382-balance-a-binary-search-tree) |
 | [1975-maximum-matrix-sum](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1975-maximum-matrix-sum) |
 ## Matrix
