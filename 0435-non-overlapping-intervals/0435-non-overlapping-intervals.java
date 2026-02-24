@@ -1,12 +1,7 @@
 class Solution {
     public int eraseOverlapIntervals(int[][] intervals) {
 
-        Arrays.sort(intervals,(a,b) -> {
-            int res = Integer.compare(a[1],b[1]);
-            if (res != 0)
-                return res;
-            return Integer.compare(a[0],b[0]);
-        });
+        Arrays.sort(intervals,(a,b) -> Integer.compare(a[1],b[1]));
 
         int overlapping = 0;
         int trackLast = intervals[0][1];
