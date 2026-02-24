@@ -1,33 +1,18 @@
 class Solution {
-    static int sum = 0;
     public int sumRootToLeaf(TreeNode root) {
-        sum = 0;
-        helper(root,"");
-        return sum;
+        return helper(root,0);
     }
-    public static void helper(TreeNode root,String binString){
+
+    public static int  helper(TreeNode root,int curSum){
+
         if (root == null)
-            return;
-        
+            return 0;
         if (root.left == null && root.right == null){
-            calBin(binString+Integer.toString(root.val));
+            return curSum * 2 + root.val;
         }
+        
+        curSum = curSum * 2 + root.val;
 
-        String x = Integer.toString(root.val);
-
-        helper(root.left,binString+x);
-        helper(root.right,binString+x);
+        return helper(root.left,curSum) + helper(root.right,curSum);
     }
-
-    public static void calBin(String binString){
-
-        int n = binString.length();
-        int idx = n-1;
-
-        for (int i=0;i<n;i++,idx--){
-            if (binString.charAt(idx) == '1')
-                sum += ( 1 << (n - 1 -idx));
-        }
-    }
-
 }
