@@ -35,6 +35,7 @@ Includes:
 | [0494-target-sum](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0494-target-sum) |
 | [0860-lemonade-change](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0860-lemonade-change) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1390-four-divisors) |
 | [1975-maximum-matrix-sum](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1975-maximum-matrix-sum) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -125,6 +126,7 @@ Includes:
 | [0078-subsets](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0090-subsets-ii) |
 | [0868-binary-gap](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Sorting
 |  |
@@ -132,6 +134,7 @@ Includes:
 | [0047-permutations-ii](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0047-permutations-ii) |
 | [0435-non-overlapping-intervals](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0455-assign-cookies) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3634-minimum-removals-to-balance-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3634-minimum-removals-to-balance-array) |
 ## String
 |  |
@@ -193,4 +196,8 @@ Includes:
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Counting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
