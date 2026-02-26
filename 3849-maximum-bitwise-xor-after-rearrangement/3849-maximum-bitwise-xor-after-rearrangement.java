@@ -2,18 +2,18 @@ class Solution {
     public String maximumXor(String s, String t) {
         
         int cntOnes = 0;
-        int cntZeros = 0;
+        int n = s.length();
 
         for (char ch : t.toCharArray()){
 
             if (ch == '1')
                 cntOnes++;
-            else 
-                cntZeros++;
         }
+        int cntZeros = n - cntOnes;
+
         StringBuilder sb = new StringBuilder(t);
 
-        for (int i=0;i<s.length();i++){
+        for (int i=0;i<n;i++){
 
             if (s.charAt(i) == '1' && t.charAt(i) == '0' && cntZeros!= 0){
                 --cntZeros;
