@@ -131,6 +131,7 @@ Includes:
 | [0090-subsets-ii](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0090-subsets-ii) |
 | [0868-binary-gap](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Sorting
 |  |
@@ -150,6 +151,7 @@ Includes:
 | [0131-palindrome-partitioning](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0131-palindrome-partitioning) |
 | [0767-reorganize-string](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0767-reorganize-string) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0842-split-array-into-fibonacci-sequence) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Stack
@@ -190,6 +192,7 @@ Includes:
 ## Simulation
 |  |
 | ------- |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Two Pointers
 |  |
