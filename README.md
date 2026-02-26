@@ -42,6 +42,7 @@ Includes:
 | [2558-take-gifts-from-the-richest-pile](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3634-minimum-removals-to-balance-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3634-minimum-removals-to-balance-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3719-longest-balanced-subarray-i) |
+| [3847-find-the-score-difference-in-a-game](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Math
 |  |
 | ------- |
@@ -194,6 +195,7 @@ Includes:
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [3847-find-the-score-difference-in-a-game](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Two Pointers
 |  |
 | ------- |
