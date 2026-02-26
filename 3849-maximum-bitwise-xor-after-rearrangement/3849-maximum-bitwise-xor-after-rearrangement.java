@@ -29,11 +29,6 @@ class Solution {
                 sb.setCharAt(i,'1');
                 --cntOnes;
             }
-        }
-
-        // System.out.println(sb);
-
-        for (int i=0;i<s.length();i++){
             if (s.charAt(i) == sb.charAt(i)){
                 sb.setCharAt(i,'0');
             }
