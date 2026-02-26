@@ -48,6 +48,7 @@ Includes:
 | ------- |
 | [0066-plus-one](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0066-plus-one) |
 | [1390-four-divisors](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1390-four-divisors) |
+| [3848-check-digitorial-permutation](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3848-check-digitorial-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -213,4 +214,5 @@ Includes:
 | ------- |
 | [0767-reorganize-string](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0767-reorganize-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [3848-check-digitorial-permutation](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3848-check-digitorial-permutation) |
 <!---LeetCode Topics End-->
