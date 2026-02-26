@@ -42,6 +42,7 @@ Includes:
 | [2558-take-gifts-from-the-richest-pile](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3634-minimum-removals-to-balance-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3634-minimum-removals-to-balance-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3719-longest-balanced-subarray-i) |
+| [3842-toggle-light-bulbs](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3842-toggle-light-bulbs) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Math
 |  |
@@ -56,6 +57,7 @@ Includes:
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3719-longest-balanced-subarray-i) |
+| [3842-toggle-light-bulbs](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3842-toggle-light-bulbs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -146,6 +148,7 @@ Includes:
 | [0767-reorganize-string](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0767-reorganize-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3634-minimum-removals-to-balance-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3634-minimum-removals-to-balance-array) |
+| [3842-toggle-light-bulbs](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3842-toggle-light-bulbs) |
 ## String
 |  |
 | ------- |
@@ -199,6 +202,7 @@ Includes:
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [3842-toggle-light-bulbs](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3842-toggle-light-bulbs) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Two Pointers
 |  |
