@@ -1,8 +1,16 @@
 class Solution {
     public String maximumXor(String s, String t) {
         
-        int cntOnes = cnt(t,'1');
-        int cntZeros = cnt(t,'0');
+        int cntOnes = 0;
+        int cntZeros = 0;
+
+        for (char ch : t.toCharArray()){
+
+            if (ch == '1')
+                cntOnes++;
+            else 
+                cntZeros++;
+        }
         StringBuilder sb = new StringBuilder(t);
 
         for (int i=0;i<s.length();i++){
@@ -37,13 +45,5 @@ class Solution {
             }
         }
         return sb.toString();
-    }
-
-    public static int cnt(String str,char ch){
-
-        return (int) str.chars()
-        .mapToObj(c -> (char) c)
-        .filter(c -> c == ch)
-        .count();
     }
 }
