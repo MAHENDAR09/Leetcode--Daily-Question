@@ -160,6 +160,7 @@ Includes:
 | [0131-palindrome-partitioning](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0131-palindrome-partitioning) |
 | [0767-reorganize-string](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0767-reorganize-string) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0842-split-array-into-fibonacci-sequence) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -167,6 +168,7 @@ Includes:
 ## Stack
 |  |
 | ------- |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Sliding Window
 |  |
