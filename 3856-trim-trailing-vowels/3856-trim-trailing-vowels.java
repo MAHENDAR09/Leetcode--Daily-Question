@@ -1,15 +1,13 @@
 class Solution {
     public String trimTrailingVowels(String s) {
 
-        StringBuilder sb = new StringBuilder(s);
-        int n = sb.length()-1;
+        int n = s.length()-1;
 
-        while (n >= 0 && isOvel(sb.charAt(n)) ){
-            sb.deleteCharAt(n);
+        while (n >= 0 && isOvel(s.charAt(n)) ){
             --n;
         }
-
-        return sb.toString();
+        
+        return s.substring(0,++n);
     }
     public static boolean isOvel(char ch){
         if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch =='u')
