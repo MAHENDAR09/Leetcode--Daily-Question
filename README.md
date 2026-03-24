@@ -175,6 +175,7 @@ Includes:
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1980-find-unique-binary-string](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1980-find-unique-binary-string) |
+| [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3114-latest-time-you-can-obtain-after-replacing-characters) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 ## Stack
 |  |
@@ -240,4 +241,8 @@ Includes:
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3843-first-element-with-unique-frequency](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3843-first-element-with-unique-frequency) |
 | [3848-check-digitorial-permutation](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3848-check-digitorial-permutation) |
+## Enumeration
+|  |
+| ------- |
+| [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3114-latest-time-you-can-obtain-after-replacing-characters) |
 <!---LeetCode Topics End-->
