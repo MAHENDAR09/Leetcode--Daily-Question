@@ -14,32 +14,37 @@
  * }
  */
 class Solution {
-    public static List<String> ans = new ArrayList<>();
+    static List<String> ans = new ArrayList<>();
     public List<String> binaryTreePaths(TreeNode root) {
         ans.clear();
-        helper(root,new String());
+        helper(root,new StringBuilder());
         return ans;
     }
-    public static void helper(TreeNode root,String path){
+    public static void helper(TreeNode root,StringBuilder path){
 
         if (root == null){
-            path = path.substring(0,path.length()-2);
+            path.setLength(path.length()-2);
             System.out.println(path);
-            ans.add(path);
+            ans.add(new String(path.toString()));
             return;
         }
-        path = path + (root.val);
-        path = path + ("->");
+        int len = path.length();
+        path.append(root.val);
+        path.append("->");
         if (root.left != null && root.right != null){
             helper(root.left,path);
+            // path.setLength(len);
             helper(root.right,path);
+            // path.setLength(len);
         }
         else if (root.right == null){
             helper(root.left,path);
+            // path.setLength(len);
         }
         else if (root.left == null){
             helper(root.right,path);
+            // path.setLength(len);
         }
-        
+        path.setLength(len);
     }
 }
