@@ -104,6 +104,7 @@ Includes:
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0257-binary-tree-paths) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -113,6 +114,7 @@ Includes:
 | ------- |
 | [0079-word-search](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0257-binary-tree-paths) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -125,6 +127,7 @@ Includes:
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0257-binary-tree-paths) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -143,6 +146,7 @@ Includes:
 | [0090-subsets-ii](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0494-target-sum) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [1980-find-unique-binary-string](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1980-find-unique-binary-string) |
@@ -178,6 +182,7 @@ Includes:
 | [0093-restore-ip-addresses](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0179-largest-number) |
+| [0257-binary-tree-paths](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0257-binary-tree-paths) |
 | [0767-reorganize-string](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0791-custom-sort-string) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0842-split-array-into-fibonacci-sequence) |
