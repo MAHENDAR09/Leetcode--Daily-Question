@@ -47,6 +47,7 @@ Includes:
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1975-maximum-matrix-sum](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1980-find-unique-binary-string) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3546-equal-sum-grid-partition-i) |
@@ -72,6 +73,7 @@ Includes:
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1980-find-unique-binary-string) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3719-longest-balanced-subarray-i](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3719-longest-balanced-subarray-i) |
 | [3842-toggle-light-bulbs](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3842-toggle-light-bulbs) |
 | [3843-first-element-with-unique-frequency](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3843-first-element-with-unique-frequency) |
@@ -181,6 +183,7 @@ Includes:
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3634-minimum-removals-to-balance-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3634-minimum-removals-to-balance-array) |
 | [3842-toggle-light-bulbs](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3842-toggle-light-bulbs) |
 ## String
@@ -201,6 +204,7 @@ Includes:
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1980-find-unique-binary-string](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1980-find-unique-binary-string) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3114-latest-time-you-can-obtain-after-replacing-characters) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 ## Stack
