@@ -42,6 +42,7 @@ Includes:
 | [1310-xor-queries-of-a-subarray](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1310-xor-queries-of-a-subarray) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1390-four-divisors) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1975-maximum-matrix-sum](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1980-find-unique-binary-string) |
@@ -58,6 +59,7 @@ Includes:
 | ------- |
 | [0066-plus-one](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0066-plus-one) |
 | [1390-four-divisors](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1390-four-divisors) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3848-check-digitorial-permutation](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3848-check-digitorial-permutation) |
 ## Hash Table
@@ -93,6 +95,7 @@ Includes:
 | [0860-lemonade-change](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0860-lemonade-change) |
 | [0948-bag-of-tokens](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0948-bag-of-tokens) |
 | [1382-balance-a-binary-search-tree](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1382-balance-a-binary-search-tree) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1975-maximum-matrix-sum](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1975-maximum-matrix-sum) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 ## Matrix
@@ -175,6 +178,7 @@ Includes:
 | [0791-custom-sort-string](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0791-custom-sort-string) |
 | [0948-bag-of-tokens](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0948-bag-of-tokens) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3634-minimum-removals-to-balance-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3634-minimum-removals-to-balance-array) |
 | [3842-toggle-light-bulbs](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3842-toggle-light-bulbs) |
 ## String
@@ -269,4 +273,8 @@ Includes:
 | ------- |
 | [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3114-latest-time-you-can-obtain-after-replacing-characters) |
 | [3546-equal-sum-grid-partition-i](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3546-equal-sum-grid-partition-i) |
+## Game Theory
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1561-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
