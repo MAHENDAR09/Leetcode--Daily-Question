@@ -46,6 +46,7 @@ Includes:
 | [1975-maximum-matrix-sum](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1980-find-unique-binary-string) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3546-equal-sum-grid-partition-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3634-minimum-removals-to-balance-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3719-longest-balanced-subarray-i) |
@@ -57,6 +58,7 @@ Includes:
 | ------- |
 | [0066-plus-one](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0066-plus-one) |
 | [1390-four-divisors](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1390-four-divisors) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3848-check-digitorial-permutation](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3848-check-digitorial-permutation) |
 ## Hash Table
 |  |
@@ -99,6 +101,7 @@ Includes:
 | [0079-word-search](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0079-word-search) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1975-maximum-matrix-sum](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1975-maximum-matrix-sum) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3546-equal-sum-grid-partition-i) |
 ## Tree
 |  |
@@ -238,6 +241,7 @@ Includes:
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3842-toggle-light-bulbs](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3842-toggle-light-bulbs) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Two Pointers
