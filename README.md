@@ -67,6 +67,7 @@ Includes:
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0525-contiguous-array) |
 | [0767-reorganize-string](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0791-custom-sort-string) |
@@ -197,6 +198,7 @@ Includes:
 | [0131-palindrome-partitioning](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0257-binary-tree-paths) |
+| [0387-first-unique-character-in-a-string](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0767-reorganize-string](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0791-custom-sort-string) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0842-split-array-into-fibonacci-sequence) |
@@ -274,6 +276,7 @@ Includes:
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0767-reorganize-string](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0767-reorganize-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
@@ -288,4 +291,8 @@ Includes:
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
