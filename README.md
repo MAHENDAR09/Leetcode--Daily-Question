@@ -264,6 +264,7 @@ Includes:
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3842-toggle-light-bulbs](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3842-toggle-light-bulbs) |
@@ -307,4 +308,8 @@ Includes:
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1833-maximum-ice-cream-bars) |
+## Linked List
+|  |
+| ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2181-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
