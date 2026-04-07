@@ -217,6 +217,7 @@ Includes:
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1980-find-unique-binary-string](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1980-find-unique-binary-string) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3114-latest-time-you-can-obtain-after-replacing-characters) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
@@ -264,6 +265,7 @@ Includes:
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
