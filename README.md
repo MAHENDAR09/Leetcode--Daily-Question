@@ -319,5 +319,10 @@ Includes:
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0206-reverse-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2181-merge-nodes-in-between-zeros) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
