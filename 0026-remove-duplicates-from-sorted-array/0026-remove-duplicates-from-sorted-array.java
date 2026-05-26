@@ -7,10 +7,8 @@ class Solution {
         for (int i=1;i<n;i++){
 
             if (nums[i] != nums[idx]){
-                 idx++;
-                int temp = nums[i];
-                nums[i] = nums[idx];
-                nums[idx] = temp;
+                idx++;
+                nums[idx] = nums[i];
             }
         }
         return idx+1;
