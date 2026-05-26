@@ -19,6 +19,7 @@ Includes:
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0045-jump-game-ii) |
@@ -283,6 +284,7 @@ Includes:
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0455-assign-cookies](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0455-assign-cookies) |
 | [0948-bag-of-tokens](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0948-bag-of-tokens) |
 ## Rolling Hash
