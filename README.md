@@ -51,6 +51,7 @@ Includes:
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1975-maximum-matrix-sum](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1980-find-unique-binary-string) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -114,6 +115,7 @@ Includes:
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1833-maximum-ice-cream-bars) |
 | [1975-maximum-matrix-sum](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1975-maximum-matrix-sum) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 ## Matrix
 |  |
@@ -200,6 +202,7 @@ Includes:
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1833-maximum-ice-cream-bars) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3634-minimum-removals-to-balance-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3634-minimum-removals-to-balance-array) |
 | [3842-toggle-light-bulbs](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3842-toggle-light-bulbs) |
