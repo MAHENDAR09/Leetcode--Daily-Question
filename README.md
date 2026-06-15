@@ -291,6 +291,7 @@ Includes:
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0455-assign-cookies](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0455-assign-cookies) |
 | [0948-bag-of-tokens](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0948-bag-of-tokens) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -329,6 +330,7 @@ Includes:
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0206-reverse-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
