@@ -1,13 +1,3 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
 class Solution {
     public ListNode deleteMiddle(ListNode head) {
 
@@ -15,32 +5,31 @@ class Solution {
             return null;
 
         ListNode ans = head;
-        
-        int size = getSize(head);
-        int delPos = size / 2;
 
-        while (delPos-->1)
+        int len = getSize(head);
+        int delNodes = len / 2;
+
+        while (delNodes-->1)
             head = head.next;
 
-        
-        System.out.println(head.val);
-
-        if (head.next != null)
+        if (head.next != null){
             head.next = head.next.next;
-        else 
+        }
+        else {
             head.next = null;
+        }
 
         return ans;
     }
+
     private static int getSize(ListNode head){
 
-        int length = 0;
+        int len = 0;
 
         while (head != null){
+            len++;
             head = head.next;
-            length++;
         }
-
-        return length; 
+        return len;
     }
 }
