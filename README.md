@@ -233,6 +233,7 @@ Includes:
 | [2075-decode-the-slanted-ciphertext](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3114-latest-time-you-can-obtain-after-replacing-characters) |
+| [3612-process-string-with-special-operations-i](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3612-process-string-with-special-operations-i) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 ## Stack
 |  |
@@ -285,6 +286,7 @@ Includes:
 | [2181-merge-nodes-in-between-zeros](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3612-process-string-with-special-operations-i](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3612-process-string-with-special-operations-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3842-toggle-light-bulbs](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3842-toggle-light-bulbs) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3847-find-the-score-difference-in-a-game) |
