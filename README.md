@@ -40,6 +40,7 @@ Includes:
 | [0485-max-consecutive-ones](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0494-target-sum) |
 | [0525-contiguous-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0525-contiguous-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0594-longest-harmonious-subsequence) |
 | [0860-lemonade-change](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0860-lemonade-change) |
 | [0948-bag-of-tokens](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0948-bag-of-tokens) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -83,6 +84,7 @@ Includes:
 | [0219-contains-duplicate-ii](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0525-contiguous-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0594-longest-harmonious-subsequence) |
 | [0767-reorganize-string](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0791-custom-sort-string) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -199,6 +201,7 @@ Includes:
 | [0179-largest-number](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0455-assign-cookies) |
+| [0594-longest-harmonious-subsequence](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0594-longest-harmonious-subsequence) |
 | [0767-reorganize-string](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0791-custom-sort-string) |
 | [0948-bag-of-tokens](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0948-bag-of-tokens) |
@@ -248,6 +251,7 @@ Includes:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0594-longest-harmonious-subsequence) |
 | [3634-minimum-removals-to-balance-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3634-minimum-removals-to-balance-array) |
 ## Divide and Conquer
 |  |
@@ -316,6 +320,7 @@ Includes:
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0594-longest-harmonious-subsequence) |
 | [0767-reorganize-string](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0767-reorganize-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
