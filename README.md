@@ -41,6 +41,7 @@ Includes:
 | [0494-target-sum](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0494-target-sum) |
 | [0525-contiguous-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0525-contiguous-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0643-maximum-average-subarray-i) |
 | [0860-lemonade-change](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0860-lemonade-change) |
 | [0948-bag-of-tokens](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0948-bag-of-tokens) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -252,6 +253,7 @@ Includes:
 | [0003-longest-substring-without-repeating-characters](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0643-maximum-average-subarray-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3634-minimum-removals-to-balance-array) |
 ## Divide and Conquer
 |  |
