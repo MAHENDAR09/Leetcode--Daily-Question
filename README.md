@@ -26,6 +26,7 @@ Includes:
 | [0046-permutations](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0079-word-search) |
@@ -102,6 +103,7 @@ Includes:
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0435-non-overlapping-intervals) |
@@ -258,6 +260,7 @@ Includes:
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0053-maximum-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1382-balance-a-binary-search-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3719-longest-balanced-subarray-i) |
