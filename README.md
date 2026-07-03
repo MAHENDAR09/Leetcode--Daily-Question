@@ -43,6 +43,7 @@ Includes:
 | [0485-max-consecutive-ones](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0494-target-sum) |
 | [0525-contiguous-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0643-maximum-average-subarray-i) |
 | [0860-lemonade-change](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0860-lemonade-change) |
@@ -88,6 +89,7 @@ Includes:
 | [0219-contains-duplicate-ii](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0594-longest-harmonious-subsequence) |
 | [0767-reorganize-string](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0791-custom-sort-string) |
@@ -280,6 +282,7 @@ Includes:
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0560-subarray-sum-equals-k) |
 | [1310-xor-queries-of-a-subarray](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1310-xor-queries-of-a-subarray) |
 | [1732-find-the-highest-altitude](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1732-find-the-highest-altitude) |
 | [3546-equal-sum-grid-partition-i](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3546-equal-sum-grid-partition-i) |
