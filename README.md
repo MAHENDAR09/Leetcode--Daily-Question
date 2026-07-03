@@ -28,6 +28,7 @@ Includes:
 | [0047-permutations-ii](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0079-word-search) |
@@ -131,6 +132,7 @@ Includes:
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0079-word-search) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1975-maximum-matrix-sum](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1975-maximum-matrix-sum) |
@@ -295,6 +297,7 @@ Includes:
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0054-spiral-matrix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2149-rearrange-array-elements-by-sign) |
