@@ -1,48 +1,53 @@
 class Solution {
     public boolean findRotation(int[][] mat, int[][] target) {
 
-        int cnt = 4;
-
-        while (cnt-- > 0){
-            rotate(mat);
-            if (checkValid(mat,target))
-                return true;
-        }
-
-        return false;
-    }
-
-    public static void rotate(int mat[][]){
         int n = mat.length;
 
-        
-        for (int i=0;i<n;i++){
-            for (int j=i;j<n;j++){
-                int temp = mat[i][j];
-                mat[i][j] = mat[j][i];
-                mat[j][i]  = temp;
-            }
-        }
+        int count = 4;
 
-        
-        for (int i=0;i<n;i++){
-            for (int j=0;j<n/2;j++){
-                int t = mat[i][j];
-                mat[i][j] = mat[i][n-j-1];
-                mat[i][n-j-1] = t;
+        while (count--> 0){
+
+            boolean flag = true;
+
+            for (int i=0;i<n;i++){
+                for(int j=i+1;j<n;j++){
+                    swap(mat,i,j);
+                }
             }
+
+            for (int i=0;i<n;i++){
+                rev(mat,i);
+            }
+
+            for (int i=0;i<n;i++){
+                for (int j=0;j<n;j++){
+                    if(mat[i][j] != target[i][j])
+                        flag = false;
+                }
+            }
+            if (flag)
+                return  true;
         }
+        return  false;
     }
-    public static boolean checkValid(int a[][],int b[][]){
 
-        int n = a.length;
+    private static void swap(int mat[][],int i,int j){
 
-        for (int i=0;i<n;i++){
-            for (int j=0;j<n;j++){
-                if (a[i][j] != b[i][j])
-                    return false;
-            }
+        int t = mat[i][j];
+        mat[i][j] = mat[j][i];
+        mat[j][i] = t;
+    }
+
+    private static void rev(int mat[][],int i){
+
+        int n = mat.length;
+
+        for (int j=0;j<n/2;j++){
+
+            int t = mat[i][j];
+            mat[i][j] = mat[i][n-1-j];
+            mat[i][n-1-j] = t;
+
         }
-        return true;
     }
 }
