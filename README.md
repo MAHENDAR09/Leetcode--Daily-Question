@@ -359,6 +359,7 @@ Includes:
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1291-sequential-digits) |
 | [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3114-latest-time-you-can-obtain-after-replacing-characters) |
 | [3546-equal-sum-grid-partition-i](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/3546-equal-sum-grid-partition-i) |
 ## Game Theory
