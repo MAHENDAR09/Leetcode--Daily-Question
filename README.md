@@ -384,6 +384,7 @@ Includes:
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0206-reverse-linked-list) |
 | [0382-linked-list-random-node](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0382-linked-list-random-node) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -391,6 +392,7 @@ Includes:
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0206-reverse-linked-list) |
 ## Binary Indexed Tree
 |  |
