@@ -85,6 +85,7 @@ Includes:
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0066-plus-one) |
+| [0382-linked-list-random-node](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0382-linked-list-random-node) |
 | [1390-four-divisors](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1390-four-divisors) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -384,6 +385,7 @@ Includes:
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0206-reverse-linked-list) |
+| [0382-linked-list-random-node](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0382-linked-list-random-node) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Recursion
@@ -402,4 +404,12 @@ Includes:
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0493-reverse-pairs) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
