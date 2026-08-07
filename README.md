@@ -55,6 +55,7 @@ Includes:
 | [0493-reverse-pairs](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0494-target-sum) |
 | [0525-contiguous-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0643-maximum-average-subarray-i) |
@@ -301,6 +302,7 @@ Includes:
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0493-reverse-pairs](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0540-single-element-in-a-sorted-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1382-balance-a-binary-search-tree) |
 ## Segment Tree
 |  |
