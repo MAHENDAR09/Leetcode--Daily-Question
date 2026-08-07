@@ -41,6 +41,7 @@ Includes:
 | [0090-subsets-ii](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0198-house-robber) |
@@ -298,6 +299,7 @@ Includes:
 | [0035-search-insert-position](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0493-reverse-pairs](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0493-reverse-pairs) |
 | [1382-balance-a-binary-search-tree](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1382-balance-a-binary-search-tree) |
 ## Segment Tree
