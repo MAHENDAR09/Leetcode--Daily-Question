@@ -23,6 +23,7 @@ Includes:
 | [0018-4sum](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0040-combination-sum-ii) |
@@ -291,6 +292,7 @@ Includes:
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0035-search-insert-position) |
 | [0493-reverse-pairs](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0493-reverse-pairs) |
 | [1382-balance-a-binary-search-tree](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1382-balance-a-binary-search-tree) |
