@@ -1,17 +1,23 @@
- import java.util.stream.*;
- 
  class Solution {
     public String longestCommonPrefix(String[] s) {
 
-        Arrays.sort(s);
-        int n = Math.min(s[0].length(),s[s.length-1].length());
+        if (s.length == 1)
+            return s[0];
 
-        String ans = IntStream.range(0,n)
-            .takeWhile(idx -> s[0].charAt(idx) == s[s.length-1].charAt(idx) )
-            .mapToObj(idx ->s[0].charAt(idx))
-            .map(String::valueOf)
-            .peek(e -> System.out.println(e))
-            .collect(Collectors.joining());
-        return ans;
+        StringBuilder ans = new StringBuilder();
+
+        for (int i=0;i<s[0].length();i++){
+
+            char ch = s[0].charAt(i);
+
+            for (int j=1;j<s.length;j++){
+
+                if (s[j].length() > i && ch == s[j].charAt(i));
+                else 
+                    return ans.toString();
+            }
+            ans.append(ch);
+        }
+        return ans.toString();
     }
 }
