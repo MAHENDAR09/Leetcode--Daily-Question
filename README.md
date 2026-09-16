@@ -443,4 +443,8 @@ Includes:
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0128-longest-consecutive-sequence) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
