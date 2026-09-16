@@ -31,6 +31,7 @@ Includes:
 | [0045-jump-game-ii](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0054-spiral-matrix) |
@@ -103,6 +104,7 @@ Includes:
 | ------- |
 | [0001-two-sum](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0219-contains-duplicate-ii) |
@@ -230,6 +232,7 @@ Includes:
 | [0015-3sum](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0179-largest-number) |
@@ -255,6 +258,7 @@ Includes:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0131-palindrome-partitioning) |
