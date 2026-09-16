@@ -18,6 +18,7 @@ Includes:
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0018-4sum) |
@@ -100,6 +101,7 @@ Includes:
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0169-majority-element) |
