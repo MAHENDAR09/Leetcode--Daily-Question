@@ -63,6 +63,7 @@ Includes:
 | [0560-subarray-sum-equals-k](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0643-maximum-average-subarray-i) |
+| [0705-design-hashset](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0705-design-hashset) |
 | [0860-lemonade-change](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0860-lemonade-change) |
 | [0948-bag-of-tokens](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0948-bag-of-tokens) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -115,6 +116,7 @@ Includes:
 | [0525-contiguous-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0594-longest-harmonious-subsequence) |
+| [0705-design-hashset](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0705-design-hashset) |
 | [0767-reorganize-string](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0791-custom-sort-string) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -375,6 +377,7 @@ Includes:
 ## Hash Function
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0705-design-hashset) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Counting
 |  |
@@ -412,6 +415,7 @@ Includes:
 | [0025-reverse-nodes-in-k-group](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0206-reverse-linked-list) |
 | [0382-linked-list-random-node](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0382-linked-list-random-node) |
+| [0705-design-hashset](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0705-design-hashset) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Recursion
@@ -447,4 +451,8 @@ Includes:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
