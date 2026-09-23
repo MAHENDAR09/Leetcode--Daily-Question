@@ -53,6 +53,7 @@ Includes:
 | [0229-majority-element-ii](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0283-move-zeroes) |
+| [0304-range-sum-query-2d-immutable](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0455-assign-cookies) |
@@ -168,6 +169,7 @@ Includes:
 | ------- |
 | [0054-spiral-matrix](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0079-word-search) |
+| [0304-range-sum-query-2d-immutable](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0304-range-sum-query-2d-immutable) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1975-maximum-matrix-sum](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1975-maximum-matrix-sum) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -336,6 +338,7 @@ Includes:
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0304-range-sum-query-2d-immutable) |
 | [0525-contiguous-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0560-subarray-sum-equals-k) |
 | [1310-xor-queries-of-a-subarray](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1310-xor-queries-of-a-subarray) |
@@ -470,6 +473,7 @@ Includes:
 ## Design
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0304-range-sum-query-2d-immutable) |
 | [0705-design-hashset](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0706-design-hashmap) |
 ## Bucket Sort
