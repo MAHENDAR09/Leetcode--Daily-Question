@@ -27,6 +27,7 @@ Includes:
 | [0031-next-permutation](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0045-jump-game-ii) |
@@ -110,6 +111,7 @@ Includes:
 | ------- |
 | [0001-two-sum](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0169-majority-element) |
@@ -167,6 +169,7 @@ Includes:
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0079-word-search) |
 | [0304-range-sum-query-2d-immutable](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0304-range-sum-query-2d-immutable) |
