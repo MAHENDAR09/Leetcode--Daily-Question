@@ -102,6 +102,7 @@ Includes:
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0069-sqrtx) |
 | [0382-linked-list-random-node](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0382-linked-list-random-node) |
 | [1390-four-divisors](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1390-four-divisors) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -330,6 +331,7 @@ Includes:
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -500,4 +502,8 @@ Includes:
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0347-top-k-frequent-elements) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/MAHENDAR09/Leetcode--Daily-Question/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
